@@ -3,15 +3,15 @@
 In between studying, I code by day, and I game or take photos at night (or draw, or write, or research... yeah I have a lot of hobbies).
 I joined Github to experiment with my ideas :) (though most of my projects are not even on GitHub for my own references)
 
-- 🔭 I’m currently working on a really bulky project that aims to help users. (Private right now)
-- 🌱 I’m currently learning hardware coding (and moreso just upload them instead of keeping those to self) like WASM at the moment
+- 🔭 I’m currently working on a really bulky project that aims to help users. (Private right now, but it will be released soon.)
+- 💬 Ask me about Python or Java/JS and/or generic discord bot development, I won't mind assisting.
 
-- 📫 How to reach me: Go to a repo that's public and pull up an issue. :)
-
-**NOTE: (Metrics below are not representative of skill. Rather, they're Github-based metrics, and most of the HTML/CSS origin from one project anyway.)**
+- 📫 How to reach me: Go to a repo that's public and pull up an issue. :) (Contact info releasing soon.)
 
 ![DeltaX's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeltaXWizard&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaXWizard&count_private=true&show_icons=true)
+
+**NOTE: (Metrics below are not representative of skill. Rather, they're Github-based metrics, and most of the HTML/CSS origin from one project anyway.)**
 
 <!--
 **DeltaXWizard/DeltaXWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
