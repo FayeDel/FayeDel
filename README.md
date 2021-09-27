@@ -2,7 +2,7 @@
 
 I do a lot of things, in a coding world I sort-of a full-stack dev but my experience heavily leans over back-end things (but front-end is fun too!)
 
-Outside of that, I play video games/sports/listen to music while drinking tea and/or energy drinks for the most part. (Currently in uni, so my github activity isn't consistent sadly.)
+Outside of that, I play video games/sports/listen to music while drinking tea and/or energy drinks for the most part. (Currently in uni, so my github activity isn't consistent sadly, I would definitely contribute and PR more things if I wasn't in a weird schedule.)
 
 - 🔭 I’m currently working on a really bulky project that aims to help users and helping a popular library :)
 - 💬 Feel free to ask me anything related to Discord, from bot development to API/WS and anything in between!
