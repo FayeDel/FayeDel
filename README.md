@@ -1,6 +1,6 @@
-### Hi there 👋
+### Heya 👋
 
-I do a lot of things, in a coding world I sort-of a full-stack dev but my experience heavily leans over back-end things (but front-end is fun too!)
+My name's Delta, and I do a lot of things, in a coding world I sortof** am a loose full-stack dev but my experience heavily leans over back-end things (but front-end is fun too!)
 
 Outside of that, I play video games/sports/listen to music while drinking tea and/or energy drinks for the most part. (Currently in uni, so my github activity isn't consistent sadly, I would definitely contribute and PR more things if I wasn't in a weird schedule.)
 
