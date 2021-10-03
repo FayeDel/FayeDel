@@ -1,17 +1,15 @@
 ### Heya 👋
 
 My name's Delta, and I do a lot of things, in a coding world I sortof** am a loose full-stack dev but my experience heavily leans over back-end things (but front-end is fun too!)
+(Sort of aka not really, I just like coding in different languages and learning/trying new things) :)
 
 Outside of that, I play video games/sports/listen to music while drinking tea and/or energy drinks for the most part. (Currently in uni, so my github activity isn't consistent sadly, I would definitely contribute and PR more things if I wasn't in a weird schedule.)
 
-- 🔭 I’m currently working on a really bulky project that aims to help users and helping a popular library :)
-- 💬 Feel free to ask me anything related to Discord, from bot development to API/WS and anything in between!
+- 🔭 I’m currently working on a really bulky project that aims to help users and helping a popular library (in terms of commits/main focus) :)
+- 💬 Feel free to ask me anything related to Discord, from bot development to API/WS and anything in between. I'm happy to assist however I can.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DeltaXWizard&count_private=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaXWizard&count_private=true&show_icons=true&theme=radical&layout=compact)
-
-**NOTE: (The Top Languages metric is not representative of skill. Rather, they're Github-based metrics.)**
+![](https://github.com/deltaxwizard/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/deltaxwizard/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **DeltaXWizard/DeltaXWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
