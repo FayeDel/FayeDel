@@ -12,6 +12,8 @@ Outside of that, I play video games/sports/listen to music while drinking tea an
 ![](https://github.com/deltaxwizard/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/deltaxwizard/github-stats/blob/master/generated/languages.svg)
 
+![](https://komarev.com/ghpvc/?username=DeltaXWizard&color=ff69b4)
+
 <!--
 **DeltaXWizard/DeltaXWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +25,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
