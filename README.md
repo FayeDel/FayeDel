@@ -1,13 +1,15 @@
+
 ### Heya 👋
 
-My name's Delta, and I do a lot of things, in a coding world I sortof** am a loose full-stack dev but my experience heavily leans over back-end things (but front-end is fun too!)
+My name's Delta, nice to meet you reader :)
+I currently specialise in backend development but I'm not afraid to do front-end development! (I'll admit, I'm just all over the place with development, though I just like coding in different languages and learning/trying new things) :)
 
-(Sort of aka not really, I just like coding in different languages and learning/trying new things) :)
+Outside of development, I mainly either relax or do other things with a cup of tea :)
+(Currently in uni, so my github activity isn't consistent sadly, I would definitely contribute and PR more projects if I wasn't in a weird schedule.)
 
-Outside of that, I play video games/sports/listen to music while drinking tea and/or energy drinks for the most part. (Currently in uni, so my github activity isn't consistent sadly, I would definitely contribute and PR more things if I wasn't in a weird schedule.)
-
-- 🔭 I’m currently working on a really bulky project that aims to help users and helping a popular library (in terms of commits/main focus) :)
-- 💬 Feel free to ask me anything related to Discord, from bot development to API/WS and anything in between. I'm happy to assist however I can.
+- 🌱 I’m currently relearning JS/TS, and maybe next.js 👀
+- 🔭 I'm currently either working on my bot (private at the moment) or developing [interactions.py](https://github.com/interactions-py/library) :)
+- 😄 Pronouns: she/her  <!-- I'd really appreciate if you respect my pronouns :) -->
 
 ![](https://github.com/deltaxwizard/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/deltaxwizard/github-stats/blob/master/generated/languages.svg)
