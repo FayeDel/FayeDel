@@ -1,14 +1,16 @@
 
-### Heya 👋
+### Hihii 👋
 
-My name's Delta, nice to meet you reader :)
-I currently specialise in backend development but I'm not afraid to do front-end development! (I'll admit, I'm just all over the place with development, though I just like coding in different languages and learning/trying new things) :)
+My name's Delta, nice to meet you reader 💖
+I currently specialise in backend and CI/CD development but I'm not afraid to do front-end development! (I'll admit, I'm just all over the place with development, though I just like coding in different languages and learning/trying new things) :)
 
-Outside of development, I mainly either relax or do other things with a cup of tea :)
-(Currently in uni, so my github activity isn't consistent sadly, I would definitely contribute and PR more projects if I wasn't in a weird schedule.)
+Outside of development, I... admit I have a ton of other hobbies (balancing is hard okay-)
 
-- 🌱 I’m currently relearning JS/TS, and maybe next.js 👀
-- 🔭 I'm currently either working on my bot (private at the moment) or developing [interactions.py](https://github.com/interactions-py/library) :)
+(My github activity isn't consistent sadly, I would definitely contribute and PR more projects if I wasn't in a weird schedule but I do try to work on it)
+
+- 🌱 I’ll plan to learn rust or zig.. I guess? I'm not 100% sure of my current dev goals 👀
+- 🔭 I'm currently just doing IRL stuff (including IRL coding atm) for the time being. I do hope to come back to GH to contribute code again though-
+- 💬 You can still ask me about Discord related topics though! I'll try my best to respond :P
 - 😄 Pronouns: she/her  <!-- I'd really appreciate if you respect my pronouns :) -->
 
 ![](https://github.com/deltaxwizard/github-stats/blob/master/generated/overview.svg)
