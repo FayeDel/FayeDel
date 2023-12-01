@@ -14,7 +14,11 @@ Outside of development though, I do have a lot more hobbies, including fashion d
 - 😄 Pronouns: she/her 
 - 👀 I also know that my site isn't up to date either... moreover domain name wise I dunno either its too expensive-
 
+<!--
+
 ![](https://github.com/fayedel/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/fayedel/github-stats/blob/master/generated/languages.svg)
 
 ![](https://komarev.com/ghpvc/?username=deltaxwizard&color=ff69b4)
+
+-->
