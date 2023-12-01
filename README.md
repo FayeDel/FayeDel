@@ -1,34 +1,20 @@
 
-### Hihii 👋
+### Hiii 👋
 
-My name's Delta, nice to meet you reader 💖
-I currently specialise in backend and CI/CD development but I'm not afraid to do front-end development! (I'll admit, I'm just all over the place with development, though I just like coding in different languages and learning/trying new things) :)
+I'm Faye, nice to meet you reader 💖 (You can also call me Delta though, I'm fine with either~)
 
-Outside of development, I... admit I have a ton of other hobbies (balancing is hard okay-)
+I currently specialise in backend and CI/CD, but I'm willing to do other types and experiment when the situation needs for it!
+Outside of development though, I do have a lot more hobbies, including fashion designing and singing... though I'm just embarrassed to showcase those.... yeaaaa shhhh :p
 
-(My github activity isn't consistent sadly, I would definitely contribute and PR more projects if I wasn't in a weird schedule but I do try to work on it)
+(I know my GH activity is like empty lately, I'm just burnt out of coding until who knows when.... one day I guess :p)
 
-- 🌱 I’ll plan to learn rust or zig.. I guess? I'm not 100% sure of my current dev goals 👀
-- 🔭 I'm currently just doing IRL stuff (including IRL coding atm) for the time being. I do hope to come back to GH to contribute code again though-
+- 🌱 Current development goals... I dunno. Getting a remote job with it would be nice though, if not trying to get a passion project again.
+- 🔭 Just IRL stuff including classes-based coding and stuff I guess. Mostly just IRL stuff though, but I still hope to come back to GH to contribute code again though-
 - 💬 You can still ask me about Discord related topics though! I'll try my best to respond :P
-- 😄 Pronouns: she/her  <!-- I'd really appreciate if you respect my pronouns :) -->
+- 😄 Pronouns: she/her 
+- 👀 I also know that my site isn't up to date either... moreover domain name wise I dunno either its too expensive-
 
-![](https://github.com/deltaxwizard/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/deltaxwizard/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/fayedel/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/fayedel/github-stats/blob/master/generated/languages.svg)
 
-![](https://komarev.com/ghpvc/?username=DeltaXWizard&color=ff69b4)
-
-<!--
-**DeltaXWizard/DeltaXWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=deltaxwizard&color=ff69b4)
