@@ -1,18 +1,16 @@
 
-### Hiii 👋
+### Hi there 👋
 
-I'm Faye, nice to meet you reader 💖 (You can also call me Delta though, I'm fine with either~)
+I'm Faye, nice to meet you reader 💖 <!-- (You can also call me Delta though, I'm fine with either~) -->
 
-I currently specialise in backend and CI/CD, but I'm willing to do other types and experiment when the situation needs for it!
-Outside of development though, I do have a lot more hobbies, including fashion designing and singing... though I'm just embarrassed to showcase those.... yeaaaa shhhh :p
+I currently specialise in backend, CI/CD and devops, but I'm willing to do other types and experiment when the situation needs for it!
+Outside of development though, I do have a lot more hobbies, including fashion designing and singing... though I'm just embarrassed to showcase those... soonTM I guess :P
 
-(I know my GH activity is like empty lately, I'm just burnt out of coding until who knows when.... one day I guess :p)
 
 - 🌱 Current development goals... I dunno. Getting a remote job with it would be nice though, if not trying to get a passion project again.
-- 🔭 Just IRL stuff including classes-based coding and stuff I guess. Mostly just IRL stuff though, but I still hope to come back to GH to contribute code again though-
+- 🔭 My GH activity's pretty much empty because of classwork for the most part. Might come back after... but I don't know yet. 
 - 💬 You can still ask me about Discord related topics though! I'll try my best to respond :P
-- 😄 Pronouns: she/her 
-- 👀 I also know that my site isn't up to date either... moreover domain name wise I dunno either its too expensive-
+- 👀 I also know that my site isn't super up to date either (besides portfolio)... moreover domain name wise I dunno either its too expensive-
 
 <!--
 
@@ -21,4 +19,4 @@ Outside of development though, I do have a lot more hobbies, including fashion d
 
 ![](https://komarev.com/ghpvc/?username=deltaxwizard&color=ff69b4)
 
--->
+ -->
